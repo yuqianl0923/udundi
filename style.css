@@ -161,7 +161,7 @@
 	position: relative;
 	top: 43%;
 	margin: 0;
-	left: -15%;
+	margin-left: -15%;
 	display: flex;
 	align-items: center;
 }
@@ -173,7 +173,8 @@
 	text-align: left;
 	font-size: 200px;
 	color: white;
-	left: -16%;
+	/*left: -16%;*/
+	margin-left:-16%; 
 	top: 46%;
 }
 .social-collection{
